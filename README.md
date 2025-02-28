@@ -3,7 +3,7 @@
 
 1. Write a program to count the number of significant digits in a given number.
 2. Write a program to round off a number with n significant figures using banker's rule.
-3. Write a program to evaluate a polynomial f(x) = x^3 - 2x^2 + 5x + 10 by using Horner's rule at x =
+3. Write a program to evaluate a polynomial f(x) = x^3 - 2x^2 + 5x + 10 by using Horner's rule at x = 5
 4. Write a program to find the root of the equation x^3 - 9x + 1 = 0, correct to three decimal places,
    using the bisection method.
 5. Write a program to find all the roots of the equation x^3 - 6x + 4 = 0, correct to three decimal
